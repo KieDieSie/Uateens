@@ -1,0 +1,15 @@
+{"score":2,"CommonBalloons":2,"UniqBalloons":0,"AngryBalloons":0,"Clicks":2}{"score":38,"CommonBalloons":8,"UniqBalloons":3,"AngryBalloons":0,"Clicks":15}{"score":76,"CommonBalloons":16,"UniqBalloons":7,"AngryBalloons":1,"Clicks":36}{"score":92,"CommonBalloons":22,"UniqBalloons":8,"AngryBalloons":1,"Clicks":51}{"score":-5,"CommonBalloons":5,"UniqBalloons":1,"AngryBalloons":2,"Clicks":19}
+{"score":21,"CommonBalloons":11,"UniqBalloons":5,"AngryBalloons":4,"Clicks":42}
+{"score":37,"CommonBalloons":17,"UniqBalloons":8,"AngryBalloons":6,"Clicks":65}
+{"score":33,"CommonBalloons":23,"UniqBalloons":10,"AngryBalloons":9,"Clicks":92}
+{"score":0,"CommonBalloons":25,"UniqBalloons":10,"AngryBalloons":9,"Clicks":101}
+{"score":0,"CommonBalloons":25,"UniqBalloons":10,"AngryBalloons":9,"Clicks":101}
+{"score":-6,"CommonBalloons":29,"UniqBalloons":11,"AngryBalloons":11,"Clicks":116}
+{"score":0,"CommonBalloons":29,"UniqBalloons":11,"AngryBalloons":13,"Clicks":121}
+{"score":-20,"CommonBalloons":29,"UniqBalloons":11,"AngryBalloons":15,"Clicks":123}
+{"score":25,"CommonBalloons":5,"UniqBalloons":2,"AngryBalloons":0,"Clicks":11}
+{"score":51,"CommonBalloons":11,"UniqBalloons":4,"AngryBalloons":0,"Clicks":22}
+{"score":87,"CommonBalloons":17,"UniqBalloons":7,"AngryBalloons":0,"Clicks":37}
+{"score":4,"CommonBalloons":24,"UniqBalloons":10,"AngryBalloons":2,"Clicks":53}
+{"score":10,"CommonBalloons":30,"UniqBalloons":13,"AngryBalloons":5,"Clicks":66}
+{"score":27,"CommonBalloons":37,"UniqBalloons":16,"AngryBalloons":7,"Clicks":80}
